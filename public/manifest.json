@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "Tetris Engine Android",
+  "short_name": "Tetris",
+  "description": "Full-featured guideline Tetris engine with exact mobile Android controls, SRS rotation, 7-bag randomizer, and marathon mode.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["games", "arcade"],
+  "icons": [
+    {
+      "src": "/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
